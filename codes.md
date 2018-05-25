@@ -1,5 +1,4 @@
-#CODES
-####################
+####CODES
 import RPi.GPIO as io
 import time 
 import datetime 
